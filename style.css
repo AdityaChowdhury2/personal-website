@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-weight: 500;
+    font-size: 55px; 
+    margin: 50px;
+    padding: 55px;
+    text-align: center;
+}
+h6{
+    font-size: 18px;
+    font-weight: 500;
+}
+h3{
+    font-size: 30px;
+    font-weight: 300;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+    margin: 10px 0px;
+    padding: 15px 0px;
+}
+.name-highlight{
+    color: rgb(211, 70, 211);
+    letter-spacing: px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 4% 4% 0% 5%;
+    padding: 3% 3% 0% 3%;
+    height: 700px;
+}
+.half-width div{
+    margin-top: 30%;
+}
+.header{
+    background-image: url('/images/header-bg.png');
+    height: 900px;
+    background-repeat: no-repeat;
+}
+.biography{
+    background-image: url('/images/biography-bg.png');
+    height: 870px;
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image: url('/images/latest-work-bg.png');
+    height: 795px;
+    background-repeat: no-repeat;
+}
+.footer{
+    background-image: url('/images/footer-bg.png');
+    height: 1050px;
+    background-repeat: no-repeat;
+}
+.half-width img{
+    height: 700px;
+}
+.anchor-button{
+
+    background-image: linear-gradient(to right, #e982c5, #e278c4, #da6dc3, #d164c3, #c85ac3);
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin: 2px;
+    padding: 5px 25px;
+}
+
+.work-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    width: 70%;
+    padding: 80px;
+}
+.work-image img{
+    margin: 1%;
+    width: 30%;
+}
+
+.name{
+    margin: auto;
+    width: fit-content;
+}
+
+.designation{
+    text-align: center;
+}
+.designation p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 13px;
+}
+.review{
+    width: 21%;
+    text-align: center;
+    color: black;
+    margin: auto;
+    padding: 40px;
+}
+.testimonials{
+    padding: 50px;
+}
+.contact{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 250px;
+    width: 40%;
+    text-align: center;
+    padding: 34px;
+    background-image: linear-gradient(to right, #e982c5, #e278c4, #da6dc3, #d164c3, #c85ac3);
+    color: white;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    margin: 50px;
+    color: dimgray;
+    font-size: 10px;
+}
