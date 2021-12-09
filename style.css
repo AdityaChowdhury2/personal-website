@@ -28,7 +28,7 @@ p{
 }
 .name-highlight{
     color: rgb(211, 70, 211);
-    letter-spacing: px;
+    letter-spacing: 4px;
 }
 .half-width{
     width: 35%;
